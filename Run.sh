@@ -1,0 +1,1 @@
+cd bin && java -cp :../jar/jdom-2.0.6.jar Main 

@@ -1,0 +1,1 @@
+javac -cp jar/jdom-2.0.6.jar -d bin src/*.java
